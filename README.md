@@ -4,6 +4,8 @@ Senior at **Washington University in St. Louis** — B.S. in Computer Science + 
 
 **Back-End AI Engineering Intern @ FlyRank** (Jul–Aug 2026). I build backend systems that talk to LLMs: metering, classification, scraping, async jobs, and report pipelines.
 
+📄 **[Resume (PDF)](https://github.com/Peoplerepabulic/Peoplerepabulic/blob/main/Resume-Qiwei-Li.pdf)**
+
 ## Featured work
 
 - [LLM Usage Metering & Billing Service](https://github.com/Peoplerepabulic/flyrank-capstone-metering-billing) — **accepted capstone**. Idempotent usage ingestion, cost computation, billing API; 13 tests + 5 acceptance probes.
